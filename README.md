@@ -1,11 +1,11 @@
 # Objective-C ランタイムプログラミング
 
-Objective-C ランタイム API の薄い本を目指して書いてみます。
+質問、コメントは [Issues](https://github.com/torus/objc-runtime-book/issues) にもらえると嬉しいです。
 
 
-### 目次
+## 目次
 
--   1 章 メソッド呼び出し
+-   1 章 [メソッド呼び出し](01-method-call)
 -   2 章 オブジェクト
 -   3 章 クラス
 -   4 章 メモリ管理
