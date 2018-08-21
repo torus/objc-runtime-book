@@ -2,11 +2,6 @@
 title: 目次
 ---
 
-質問、コメントは [Issues](https://github.com/torus/objc-runtime-book/issues) にもらえると嬉しいです。
-
-
-## 目次
-
 -   1 章 [メソッド呼び出し](01-method-call)
 -   2 章 オブジェクト
 -   3 章 クラス
@@ -18,3 +13,5 @@ title: 目次
 -   9 章 継承とプロトコル
 -   10 章 メソッド定義
 -   11 章 補遺
+
+質問、コメントは [Issues](https://github.com/torus/objc-runtime-book/issues) にもらえると嬉しいです。
